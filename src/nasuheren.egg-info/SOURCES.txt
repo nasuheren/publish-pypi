@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/mypackage/__init__.py
+src/mypackage/job.py
+src/nasuheren.egg-info/PKG-INFO
+src/nasuheren.egg-info/SOURCES.txt
+src/nasuheren.egg-info/dependency_links.txt
+src/nasuheren.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/job1.egg-info/PKG-INFO
+src/job1.egg-info/SOURCES.txt
+src/job1.egg-info/dependency_links.txt
+src/job1.egg-info/top_level.txt
+src/mypackage/__init__.py
+src/mypackage/job.py
