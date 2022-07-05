@@ -5,10 +5,6 @@ import json
 
 
 # Ekrana yazı yazar
-<<<<<<< HEAD
-=======
-
->>>>>>> 51fe76549189469d4bba8181d9ec973543df2ce2
 class Yazbel(App):
     def build(self):
         yazi = Label(text = "Hello :D",font_size = "25sp",color = [0,.3,.9,1])
