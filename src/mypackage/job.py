@@ -3,9 +3,8 @@ from kivy.app import App
 from kivy.uix.label import Label
 import json
 
-"""
-Ekrana yazı yazar
-"""
+
+# Ekrana yazı yazar
 class Yazbel(App):
     def build(self):
         yazi = Label(text = "Hello :D",font_size = "25sp",color = [0,.3,.9,1])
@@ -14,9 +13,9 @@ class Yazbel(App):
 Yazbel().run()
 
 
-"""
-Değer girilip toplamaya yarar ve Json dosyası olarak döndürür
-"""
+
+# Değer girilip toplamaya yarar ve Json dosyası olarak döndürür
+
 def topla():
     a = int(input("Deger giriniz"))
     b = int(input("Deger giriniz"))
