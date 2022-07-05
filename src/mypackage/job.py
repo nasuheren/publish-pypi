@@ -4,7 +4,7 @@ from kivy.uix.label import Label
 import json
 
 
-# Ekrana yazı yazar
+# Ekrana yazi yazar
 class Yazbel(App):
     def build(self):
         yazi = Label(text = "Hello :D",font_size = "25sp",color = [0,.3,.9,1])
