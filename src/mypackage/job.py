@@ -14,7 +14,7 @@ Yazbel().run()
 
 
 
-# Değer girilip toplamaya yarar ve Json dosyası olarak döndürür
+# Deger girilip toplamaya yarar ve Json dosyasi olarak dondurur
 
 def topla():
     a = int(input("Deger giriniz"))
