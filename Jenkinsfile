@@ -13,7 +13,7 @@ pipeline {
                 echo 'point'
                 sh 'pwd'
                 sh 'ls'
-                sh 'echo src'
+                sh 'cd src'
                 sh 'pwd'
                 sh 'cd mypackage'
             }
