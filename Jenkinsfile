@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent src/mypackage
     stages {
         stage('Hello') {
             steps {
